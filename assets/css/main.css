@@ -4356,6 +4356,8 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::before, body .mfp-w
       background-color: #0091FF; }
     .about-list .xb-item--number.color-4 {
       background-color: #FFBD0F; }
+      .about-list .xb-item--number.color-5 {
+        background-color: #2002cc; }
   .about-list .xb-item--holder {
     padding-left: 60px; }
   .about-list .xb-item--title {
